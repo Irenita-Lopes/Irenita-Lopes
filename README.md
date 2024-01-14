@@ -1,7 +1,7 @@
 # Irenita Lopes
 Olá mundo! Conecte-se comigo!
 
-Sou a Irenita, tenho formação em letras e estou caminhando com a minha segunda graduação em Análise e Desenvolvimento de Sitemas. Busco na transição de carreira um melhor aproveitamneto das minhas habilidades e capacidades. 
+Sou a Irenita, tenho formação em letras e estou caminhando com a minha segunda graduação em Análise e Desenvolvimento de Sitemas. Busco na transição de carreira um melhor aproveitamento das minhas habilidades e capacidades. 
 
 ## 🛠 Habilidades
 Javascript, HTML, CSS.
