@@ -1,4 +1,4 @@
-# hello_world
+# Irenita Lopes
 Olá mundo! Conecte-se comigo!
 
 Sou a Irenita, tenho formação em letras e estou caminhando com a minha segunda graduação em Análise e Desenvolvimento de Sitemas. Busco na transição de carreira um melhor aproveitamneto das minhas habilidades e capacidades. 
