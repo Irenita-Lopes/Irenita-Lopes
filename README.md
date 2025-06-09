@@ -1,6 +1,6 @@
 > _Oi! Que bom que estão por aqui!_ 👩‍💻
 
-Me chamo Irenita, sou desenvolvedora júnior, tenho conhecimentos em TypeScript, Java e JavaScript. Atualmente, estou em processo de capacitação em tecnologias de computação em nuvem, com foco nos serviços da AWS e da Azure.
+Me chamo Irenita, sou desenvolvedora júnior, tenho conhecimentos em TypeScript, Java e JavaScript. Atualmente, estou em processo de capacitação em tecnologias de computação em nuvem e IA, com foco nos serviços da AWS e da Azure.
 
 Busco atuar no desenvolvimento de software, aplicando meus conhecimentos técnicos e contribuindo com soluções inovadoras. Possuo habilidades em pesquisa, escrita, resolução de problemas, planejamento de ações e mediação de conflitos. Também sou uma entusiasta da acessibilidade digital e acredito na potencialidade da tecnologia digital como ferramenta de transformação social.
 
